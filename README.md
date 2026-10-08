@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Igor Theophilo, tenho 18 anos e sou natural do Ceará. Atualmente, estou cursando o 3º semestre de Ciência da computação na UNIFOR. Sou apaixonado em tecnologias e estou em busca do meu primeiro emprego na área de desenvolvimento.
+Me chamo Igor Theophilo, tenho 19 anos e sou natural do Ceará. Atualmente, estou cursando o 4º semestre de Ciência da computação na UNIFOR. Sou apaixonado em tecnologias e estou em busca do meu primeiro emprego na área de desenvolvimento.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/igor-theophilo-b84748372" target="_blank">
